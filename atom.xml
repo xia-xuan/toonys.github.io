@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Toonys</title>
+  
+  <subtitle>向前，向前，不择手段的向前！ --《三体》</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.lucy-z.cn/"/>
+  <updated>2018-01-24T03:40:09.893Z</updated>
+  <id>http://www.lucy-z.cn/</id>
+  
+  <author>
+    <name>Toonys</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Something Just Like This</title>
+    <link href="http://www.lucy-z.cn/2018/01/21/music1/"/>
+    <id>http://www.lucy-z.cn/2018/01/21/music1/</id>
+    <published>2018-01-21T11:30:28.000Z</published>
+    <updated>2018-01-24T03:40:09.893Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://ou51b4z7g.bkt.clouddn.com/17-12-12/88086742.jpg" alt=""><br><a id="more"></a></p><audio autoplay="autoplay" controls="controls" loop="loop" preload="auto" src="http://www.0dutv.com/plug/down/up2.php/202004774.mp3"><br>      你的浏览器不支持audio标签<br></audio>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ou51b4z7g.bkt.clouddn.com/17-12-12/88086742.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="music" scheme="http://www.lucy-z.cn/categories/music/"/>
+    
+    
+      <category term="音乐" scheme="http://www.lucy-z.cn/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+      <category term="music" scheme="http://www.lucy-z.cn/tags/music/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Letter</title>
+    <link href="http://www.lucy-z.cn/2018/01/05/music0/"/>
+    <id>http://www.lucy-z.cn/2018/01/05/music0/</id>
+    <published>2018-01-05T08:53:38.000Z</published>
+    <updated>2018-01-05T08:58:51.734Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://ou51b4z7g.bkt.clouddn.com/17-12-12/88086742.jpg" alt=""><br><a id="more"></a></p><p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=26620638&auto=1&height=66"></iframe></p><p> 43秒开始的旋律无法自拔 </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ou51b4z7g.bkt.clouddn.com/17-12-12/88086742.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="music" scheme="http://www.lucy-z.cn/categories/music/"/>
+    
+    
+      <category term="音乐" scheme="http://www.lucy-z.cn/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+      <category term="music" scheme="http://www.lucy-z.cn/tags/music/"/>
+    
+  </entry>
+  
+</feed>
