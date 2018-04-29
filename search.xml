@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[加油！！！]]></title>
+    <url>%2F2018%2F04%2F29%2Fweb%2F</url>
+    <content type="text"><![CDATA[看到学长桃林小生最近一段时间发了很多文章，让我很受刺激。以后我也要多多发一些文章]]></content>
+      <categories>
+        <category>html</category>
+      </categories>
+      <tags>
+        <tag>web</tag>
+        <tag>html</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[孤单]]></title>
+    <url>%2F2018%2F04%2F29%2Fmusic2%2F</url>
+    <content type="text"><![CDATA[其实有时候真的很无助很孤单，没人在乎你。]]></content>
+      <categories>
+        <category>music</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+        <tag>music</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Something Just Like This]]></title>
     <url>%2F2018%2F01%2F21%2Fmusic1%2F</url>
     <content type="text"><![CDATA[你的浏览器不支持audio标签]]></content>
