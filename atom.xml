@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.lucy-z.cn/"/>
-  <updated>2018-06-05T05:03:03.571Z</updated>
+  <updated>2018-06-15T11:23:49.978Z</updated>
   <id>http://www.lucy-z.cn/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>记第一次工作</title>
+    <link href="http://www.lucy-z.cn/2018/06/15/SQLSever/"/>
+    <id>http://www.lucy-z.cn/2018/06/15/SQLSever/</id>
+    <published>2018-06-15T10:53:38.000Z</published>
+    <updated>2018-06-15T11:23:49.978Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://ou51b4z7g.bkt.clouddn.com/18-4-29/21971924.jpg" alt=""><br><a id="more"></a></p><h1 id="一首追梦赤子心送给自己，让自己早日成为一个会写“Hello-World”的大佬！加油！"><a href="#一首追梦赤子心送给自己，让自己早日成为一个会写“Hello-World”的大佬！加油！" class="headerlink" title="一首追梦赤子心送给自己，让自己早日成为一个会写“Hello World”的大佬！加油！"></a>一首追梦赤子心送给自己，让自己早日成为一个会写“Hello World”的大佬！加油！</h1><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=355992&auto=1&height=66"></iframe><h2 id="没想到自己的第一份工作和数据库有关，还记得和学长聊天说自己想去前端工作，最后还是做了数据库，还好这个公司的同事都很好，对我很是照料。"><a href="#没想到自己的第一份工作和数据库有关，还记得和学长聊天说自己想去前端工作，最后还是做了数据库，还好这个公司的同事都很好，对我很是照料。" class="headerlink" title="没想到自己的第一份工作和数据库有关，还记得和学长聊天说自己想去前端工作，最后还是做了数据库，还好这个公司的同事都很好，对我很是照料。"></a>没想到自己的第一份工作和数据库有关，还记得和<a href="http://www.taolinxs.com" target="_blank" rel="noopener">学长</a>聊天说自己想去前端工作，最后还是做了数据库，还好这个公司的同事都很好，对我很是照料。</h2>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ou51b4z7g.bkt.clouddn.com/18-4-29/21971924.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="数据库" scheme="http://www.lucy-z.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+      <category term="sql" scheme="http://www.lucy-z.cn/tags/sql/"/>
+    
+  </entry>
   
   <entry>
     <title>图片转字符画</title>
@@ -80,9 +102,9 @@
       <category term="music" scheme="http://www.lucy-z.cn/categories/music/"/>
     
     
-      <category term="音乐" scheme="http://www.lucy-z.cn/tags/%E9%9F%B3%E4%B9%90/"/>
-    
       <category term="music" scheme="http://www.lucy-z.cn/tags/music/"/>
+    
+      <category term="音乐" scheme="http://www.lucy-z.cn/tags/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
@@ -104,9 +126,9 @@
       <category term="music" scheme="http://www.lucy-z.cn/categories/music/"/>
     
     
-      <category term="音乐" scheme="http://www.lucy-z.cn/tags/%E9%9F%B3%E4%B9%90/"/>
-    
       <category term="music" scheme="http://www.lucy-z.cn/tags/music/"/>
+    
+      <category term="音乐" scheme="http://www.lucy-z.cn/tags/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
@@ -128,9 +150,9 @@
       <category term="music" scheme="http://www.lucy-z.cn/categories/music/"/>
     
     
-      <category term="音乐" scheme="http://www.lucy-z.cn/tags/%E9%9F%B3%E4%B9%90/"/>
-    
       <category term="music" scheme="http://www.lucy-z.cn/tags/music/"/>
+    
+      <category term="音乐" scheme="http://www.lucy-z.cn/tags/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   

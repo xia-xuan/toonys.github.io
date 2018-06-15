@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[记第一次工作]]></title>
+    <url>%2F2018%2F06%2F15%2FSQLSever%2F</url>
+    <content type="text"><![CDATA[一首追梦赤子心送给自己，让自己早日成为一个会写“Hello World”的大佬！加油！ 没想到自己的第一份工作和数据库有关，还记得和学长聊天说自己想去前端工作，最后还是做了数据库，还好这个公司的同事都很好，对我很是照料。]]></content>
+      <categories>
+        <category>数据库</category>
+      </categories>
+      <tags>
+        <tag>sql</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[图片转字符画]]></title>
     <url>%2F2018%2F06%2F05%2Fzifuhua%2F</url>
     <content type="text"><![CDATA[在抖音上看到好多用记事本画图的，然后想了想用Py把图片转化成字符只需要十几行代码就可以实现。 步骤我们要用到Python的图像处理库PIL（Python Imaging Library）代码123456789101112131415161718192021from PIL import Imageascii_char = list(&quot;$@B%8&amp;WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1&#123;&#125;[]?-_+~&lt;&gt;i!lI;:,\&quot;^`&apos;. &quot;) # 字符从深到浅，如果画的不像可以更改自己想要的字符length = len(ascii_char)img = Image.open(&apos;E:\1.jpg&apos;) #输入图片位置(width, heigth) = img.sizeimg = img.resize((int(width * 0.1), int(heigth * 0.05))) # 缩小，便于字符画的展示print(img.size) # 打印字符画的宽和高def covert(img): img = img.convert(&quot;L&quot;) # 彩图直接灰度化 txt = &quot;&quot; for i in range(img.size[1]): # 高，也就是行 for j in range(img.size[0]): # 宽，也就是高 gray = img.getpixel((j, i)) # 得到该点的灰度 gray /= 256.0 # 灰度归一化 txt += ascii_char[int(gray * length)] # 不同灰度分散到字符列表中的每个字符 txt += &apos;\n&apos; # 表示做完一行了 return txttxt = covert(img)f = open(&apos;E:\1.txt&apos;, &apos;w&apos;) #保存生成得txt文件位置f.write(txt)f.close() 原图 转为字符串的图 PS：(记事本打开自动换行，字体：宋体 小五)]]></content>
@@ -31,8 +42,8 @@
         <category>music</category>
       </categories>
       <tags>
-        <tag>音乐</tag>
         <tag>music</tag>
+        <tag>音乐</tag>
       </tags>
   </entry>
   <entry>
@@ -43,8 +54,8 @@
         <category>music</category>
       </categories>
       <tags>
-        <tag>音乐</tag>
         <tag>music</tag>
+        <tag>音乐</tag>
       </tags>
   </entry>
   <entry>
@@ -55,8 +66,8 @@
         <category>music</category>
       </categories>
       <tags>
-        <tag>音乐</tag>
         <tag>music</tag>
+        <tag>音乐</tag>
       </tags>
   </entry>
 </search>
